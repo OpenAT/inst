@@ -1,0 +1,3 @@
+[submodule "fsonline"]
+	path = fsonline
+	url = https://github.com/OpenAT/fsonline.git
